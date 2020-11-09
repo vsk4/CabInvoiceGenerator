@@ -1,5 +1,8 @@
 ﻿using System;
-namespace CabInvoiceGenerator
+using System.Collections.Generic;
+using System.Text;
+
+namespace CabInvoiceGeneratorProject
 {
     public class Ride
     {
@@ -10,6 +13,6 @@ namespace CabInvoiceGenerator
             this.distance = distance;
             this.time = time;
         }
-    }
 
+    }
 }

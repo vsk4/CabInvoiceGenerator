@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CabInvoiceGenerator
+namespace CabInvoiceGeneratorProject
 {
     class Program
     {
